@@ -10,16 +10,16 @@
     "resources": {
         "media": [
             {
-                "file": "fonts/perfect-dos-vga-437-24.ttf",
-                "name": "FONT_PERFECT_DOS_VGA_24",
-                "targetPlatforms": null,
-                "type": "font"
-            },
-            {
                 "file": "images/background.png",
                 "name": "IMAGE_BACKGROUND",
                 "targetPlatforms": null,
                 "type": "bitmap"
+            },
+            {
+                "file": "fonts/perfect-dos-vga-437.ttf",
+                "name": "FONT_PERFECT_DOS_VGA_24",
+                "targetPlatforms": null,
+                "type": "font"
             },
             {
                 "file": "fonts/perfect-dos-vga-437.ttf",
