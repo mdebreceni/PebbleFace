@@ -1,0 +1,44 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Two Left Feet Softworks",
+    "enableMultiJS": true,
+    "longName": "Tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/perfect-dos-vga-437-24.ttf",
+                "name": "FONT_PERFECT_DOS_VGA_24",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/perfect-dos-vga-437.ttf",
+                "name": "FONT_PERFECT_DOS_VGA_42",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial 1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "4a8720e7-4c18-43b4-b7bf-c51478e58328",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
