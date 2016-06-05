@@ -1,5 +1,8 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
     "capabilities": [
         ""
     ],
@@ -17,7 +20,7 @@
             },
             {
                 "file": "fonts/perfect-dos-vga-437.ttf",
-                "name": "FONT_PERFECT_DOS_VGA_20",
+                "name": "FONT_PERFECT_DOS_VGA_42",
                 "targetPlatforms": null,
                 "type": "font"
             },
@@ -29,7 +32,7 @@
             },
             {
                 "file": "fonts/perfect-dos-vga-437.ttf",
-                "name": "FONT_PERFECT_DOS_VGA_42",
+                "name": "FONT_PERFECT_DOS_VGA_20",
                 "targetPlatforms": null,
                 "type": "font"
             }
